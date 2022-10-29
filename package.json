@@ -1,0 +1,16 @@
+{
+"name": "zuza89",
+"theme": "zuza89",
+"version": "8.8.4",
+"description": "zuza89 ทางเข้าเว็บพนันเว็บตรง ระบบออโต้ รับเครดิตฟรี",
+"keywords": [
+"zuza89",
+"zuza89 เครดิตฟรี",
+"zuza89 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/zuza89",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
